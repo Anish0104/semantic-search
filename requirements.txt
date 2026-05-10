@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+sentence-transformers
+rank_bm25
+pandas
+numpy
+tqdm
+scikit-learn
