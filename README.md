@@ -34,6 +34,7 @@ uvicorn api.main:app --reload
 
 ## Project Structure
 
+
 ```
 semantic-search/
 ├── src/
